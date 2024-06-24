@@ -1,1 +1,1173 @@
-
+{
+  "name": "Rutracker | Games for Windows",
+  "downloads": [
+    {
+      "title": "[Сборник] Razor 1911 10th Anniversary Game Collection",
+      "uris": [
+        "magnet:?xt=urn:btih:972BDDBCA6ED86ABC9E5D0882A504A09D0067F5D"
+      ],
+      "uploadDate": "2014-12-10T15:18:00Z",
+      "fileSize": "608.4 MB"
+    },
+    {
+      "title": "[Сборник] Очень большая подборка старых игр 1998 [P] [RUS + ENG] (1998) [N/A]",
+      "uris": [
+        "magnet:?xt=urn:btih:6B09F783B6828B6DCA5CD385B4DF044E30985327"
+      ],
+      "uploadDate": "2017-12-11T21:02:00Z",
+      "fileSize": "1.8 GB"
+    },
+    {
+      "title": "[Сборник] Компьютерные игры freeware [L] [ENG] (2004—2011, Flash, Freeware, Source Code) [Install + Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:4B772260C05647AD12FAD40FB3BBFD819982334D"
+      ],
+      "uploadDate": "2018-03-04T17:27:00Z",
+      "fileSize": "33.1 MB"
+    },
+    {
+      "title": "[Сборник] Совсем старые игры (210 игр для IBM XT)",
+      "uris": [
+        "magnet:?xt=urn:btih:4C4FB59AE8EDC6169328C3D17F73B80395AD6177"
+      ],
+      "uploadDate": "2007-07-15T23:49:00Z",
+      "fileSize": "84.1 MB"
+    },
+    {
+      "title": "[Сборник] Classic Games [P] [RUS] (1999)",
+      "uris": [
+        "magnet:?xt=urn:btih:6D0F15B02BA19D9B72553A9F3FC0BF837E87A026"
+      ],
+      "uploadDate": "2007-07-18T19:32:00Z",
+      "fileSize": "646.7 MB"
+    },
+    {
+      "title": "[Сборник] Золотая Коллекция. Выпуск 2",
+      "uris": [
+        "magnet:?xt=urn:btih:424752AF7CC46E4F5CB71D48C2631216B5BB1810"
+      ],
+      "uploadDate": "2007-10-29T22:39:00Z",
+      "fileSize": "649.3 MB"
+    },
+    {
+      "title": "[Сборник] 550 русских игр на любой вкус",
+      "uris": [
+        "magnet:?xt=urn:btih:F2D2481B5A2183D40F014B6D75C3235E956E0CBD"
+      ],
+      "uploadDate": "2007-12-16T13:36:00Z",
+      "fileSize": "629.2 MB"
+    },
+    {
+      "title": "[Сборник] Эротические игры. Том 4 [P] [RUS? + ENG?] (, Эротика) [Master Media]",
+      "uris": [
+        "magnet:?xt=urn:btih:57FECA77E8F749F1D7BD69352C4B64E4E2AE12D4"
+      ],
+      "uploadDate": "2008-01-16T16:38:00Z",
+      "fileSize": "609.5 MB"
+    },
+    {
+      "title": "[Сборник] ? (125 игр на русском языке + Карточные игры на русском языке 2003 + Офисные игры на русском языке 2003) + RP Collection (140 эротических игр+Мир бильярдов+Мир Диснея том 3) [P] [RUS + ENG] (2000—2004) [Media Group]",
+      "uris": [
+        "magnet:?xt=urn:btih:5BBE35F3B5390F963A3855D682A5AD39DBE630B9"
+      ],
+      "uploadDate": "2018-03-11T18:53:00Z",
+      "fileSize": "5.0 GB"
+    },
+    {
+      "title": "[Сборник] Огромная подборка старых игр (CGA, EGA, VGA, SVGA, Windows)",
+      "uris": [
+        "magnet:?xt=urn:btih:7B621F378A752882E5F239F078202AF6E202EA1E"
+      ],
+      "uploadDate": "2008-03-17T22:31:00Z",
+      "fileSize": "25.1 GB"
+    },
+    {
+      "title": "[Сборник] ? (170 игр на русском языке) + 100 русских игр + Игроман (60 Puzzles + 180 эротических игр + 1250 русских игр) [P] [RUS + ENG] (1998—2001) [XXI век]",
+      "uris": [
+        "magnet:?xt=urn:btih:4AED2ECD0E8AFF112C85F59555404E9F08DC94DE"
+      ],
+      "uploadDate": "2019-09-25T12:22:00Z",
+      "fileSize": "4.9 GB"
+    },
+    {
+      "title": "[УДАЛЕНО] [Сборник] Legando [L] [RUS? + ENG?] (2006—2008, Free, Flash) [Новый Диск]",
+      "uris": [
+        "magnet:?xt=urn:btih:5C7AE3F1D943441E104A567E754BFC67424C66E2"
+      ],
+      "uploadDate": "2018-02-26T17:20:00Z",
+      "fileSize": "7.0 GB"
+    },
+    {
+      "title": "[Сборник] Полная антология Classic Fond",
+      "uris": [
+        "magnet:?xt=urn:btih:F8A2086D22FDFA278A3A8B46235F1AB249E9E674"
+      ],
+      "uploadDate": "2008-04-17T16:30:00Z",
+      "fileSize": "43.9 GB"
+    },
+    {
+      "title": "[Сборник] 50 лучших русских игр [P] [RUS + ENG] (1999) [Русский проект]",
+      "uris": [
+        "magnet:?xt=urn:btih:C821B2169DBFC41537AA0B843039C0A2AC95DBC5"
+      ],
+      "uploadDate": "2008-06-15T23:59:00Z",
+      "fileSize": "647.3 MB"
+    },
+    {
+      "title": "[Сборник] Игры [P] [RUS? + ENG?] (2002—2009)",
+      "uris": [
+        "magnet:?xt=urn:btih:0BEF3A6B29D1590C5C2AEA569A00830F88732036"
+      ],
+      "uploadDate": "2019-11-03T23:11:00Z",
+      "fileSize": "5.9 GB"
+    },
+    {
+      "title": "[Сборник] 600 игр для всей семьи",
+      "uris": [
+        "magnet:?xt=urn:btih:9A87D3C1594A0F09A73F8F8C13FDF01431A04A0A"
+      ],
+      "uploadDate": "2008-07-12T18:50:00Z",
+      "fileSize": "4.4 GB"
+    },
+    {
+      "title": "[Сборник] 170 игр на русском языке [P] [RUS? + ENG?] (1999) [N/A]",
+      "uris": [
+        "magnet:?xt=urn:btih:588451D49B7E40F46830AB825397FA4E9661B271"
+      ],
+      "uploadDate": "2019-02-04T23:06:00Z",
+      "fileSize": "647.5 MB"
+    },
+    {
+      "title": "[Сборник] Сборник игр разных жанров - 235 игр [P] [RUS + ENG] (2002) [Фаргус]",
+      "uris": [
+        "magnet:?xt=urn:btih:BF3C911A36A291DDD644EDD7C3B674D3254F62DA"
+      ],
+      "uploadDate": "2008-08-01T21:48:00Z",
+      "fileSize": "611.5 MB"
+    },
+    {
+      "title": "[Browser] [Сборник] Флеш-игры [P] [ENG] (2001—2013, Flash) [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:ED10F02F562E22DDD1406AF299A261CCF2D7AC9C"
+      ],
+      "uploadDate": "2018-02-24T00:35:00Z",
+      "fileSize": "5.1 GB"
+    },
+    {
+      "title": "[Сборник] 200 игр на русском языке [N/A]",
+      "uris": [
+        "magnet:?xt=urn:btih:E9B11C3FDFBEC8209D01C93000E640C9B559BF37"
+      ],
+      "uploadDate": "2008-08-18T02:24:00Z",
+      "fileSize": "744.8 MB"
+    },
+    {
+      "title": "[Сборник] Супер-сборник старых DOS/WIN игр",
+      "uris": [
+        "magnet:?xt=urn:btih:896C9B9129FF0149C65CBB0DD820E27013672DA4"
+      ],
+      "uploadDate": "2008-09-28T01:33:00Z",
+      "fileSize": "277.2 MB"
+    },
+    {
+      "title": "[Сборник] Silmarils - Антология (1996)",
+      "uris": [
+        "magnet:?xt=urn:btih:17338374A4FF5FF4FACB304D0D62D49ED1742DAC"
+      ],
+      "uploadDate": "2017-05-27T18:45:00Z",
+      "fileSize": "889.6 MB"
+    },
+    {
+      "title": "[Сборник] Star Wars (Episode I - Battle for Naboo/Dark Forces/Force Commander/Galactic Battlegrounds/Clone Campaigns/Jedi Knight - Dark Forces II/Jadi Academy/Jedi Outcast/Knights of the Old Republic/Phanthom Menice/Racer/ и др.) [RUS / ENG] [Triada]",
+      "uris": [
+        "magnet:?xt=urn:btih:CA7A5E41F8C16FC59CA0A1DA3631C6865852D6C1"
+      ],
+      "uploadDate": "2008-10-30T21:26:00Z",
+      "fileSize": "4.1 GB"
+    },
+    {
+      "title": "[Сборник] Антология лучших флэш-игр [Лайт-Проджект]",
+      "uris": [
+        "magnet:?xt=urn:btih:BE295819B89F7F5DB828D21B23AFFD2CB2CB6827"
+      ],
+      "uploadDate": "2008-11-15T01:32:00Z",
+      "fileSize": "579.4 MB"
+    },
+    {
+      "title": "[Browser] [Сборник] Эротические флеш-игры [P] [ENG] (2000—2007, Flash, Эротика) [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:4487480344E5311AFE183341D9314FAE582586BF"
+      ],
+      "uploadDate": "2018-03-03T23:11:00Z",
+      "fileSize": "182.6 MB"
+    },
+    {
+      "title": "[Сборник] Сборник очень старых игр",
+      "uris": [
+        "magnet:?xt=urn:btih:F0AC5626A20DEA9F6C3969661E53A76C498A59E6"
+      ],
+      "uploadDate": "2009-01-10T01:49:00Z",
+      "fileSize": "26.5 MB"
+    },
+    {
+      "title": "[Сборник] 77 новейших эротических игр [RUS / ENG] (1998, Эротика) [N/A]",
+      "uris": [
+        "magnet:?xt=urn:btih:90871B3E6ACBEB01A08C163BE964A8FDBAF7A840"
+      ],
+      "uploadDate": "2009-01-21T22:41:00Z",
+      "fileSize": "646.0 MB"
+    },
+    {
+      "title": "[Сборник] BlockOut + Cdman + Electroman + F-15 Strike Eagle II + F-19 Stealth Fighter + Fire and Forget 2: The Death of Convoy + Knightmare + Titus the Fox: To Marrakech and Back + Ugh! + Volfied",
+      "uris": [
+        "magnet:?xt=urn:btih:55890150859A14DAB1E61F164BD9CD992A170680"
+      ],
+      "uploadDate": "2009-01-23T14:21:00Z",
+      "fileSize": "5.7 MB"
+    },
+    {
+      "title": "[DOS] [Сборник] Bootable Сборка старых игр под DOS",
+      "uris": [
+        "magnet:?xt=urn:btih:D59EB66255F74D7F7A01E0D48438517688D59137"
+      ],
+      "uploadDate": "2009-02-16T09:32:00Z",
+      "fileSize": "702.6 MB"
+    },
+    {
+      "title": "[DOS] [Сборник] Сборник игровых хитов Ms-Dos (300 игр)",
+      "uris": [
+        "magnet:?xt=urn:btih:7D5B31C25AD3B283D83E1290045B8F3479476C6E"
+      ],
+      "uploadDate": "2010-11-08T18:02:00Z",
+      "fileSize": "4.6 GB"
+    },
+    {
+      "title": "[Сборник] Забытые шедевры [ENG + RUS] [Фаргус]",
+      "uris": [
+        "magnet:?xt=urn:btih:6DDB9C1DD3ED3A0561BD4762C1619FE039C23824"
+      ],
+      "uploadDate": "2009-03-13T12:19:00Z",
+      "fileSize": "634.2 MB"
+    },
+    {
+      "title": "[Сборник] 750 русских игр",
+      "uris": [
+        "magnet:?xt=urn:btih:F17D4080A333570957FEDCBACDFF713384B36F5E"
+      ],
+      "uploadDate": "2009-03-15T17:52:00Z",
+      "fileSize": "624.6 MB"
+    },
+    {
+      "title": "[Сборник] Лыжню! Зимний спорт - Сборник Игр (Lets Skate! Winter Sport - Game Collectione) (2007)",
+      "uris": [
+        "magnet:?xt=urn:btih:7676E7BD2860712CDC9A6333FFAFFC8FF626A139"
+      ],
+      "uploadDate": "2017-12-17T12:20:00Z",
+      "fileSize": "3.3 GB"
+    },
+    {
+      "title": "[Сборник] Classic Fond: Антология ORIGIN (Eye Of The Beholder/Might & Magic/Privateer/System Shock/Ultima/Wing Commander/CyberMage/Crusader - No Regret/Crusader - No Remorse/Strike Commander) [ENG]",
+      "uris": [
+        "magnet:?xt=urn:btih:D15D318BD8964E49AC1FDBDD09604A736C99AF13"
+      ],
+      "uploadDate": "2009-04-06T19:51:00Z",
+      "fileSize": "556.6 MB"
+    },
+    {
+      "title": "[Сборник] Застольные Игры",
+      "uris": [
+        "magnet:?xt=urn:btih:A1DB3316B89196907CA3170BD92BD303C83F2234"
+      ],
+      "uploadDate": "2009-04-14T18:58:00Z",
+      "fileSize": "647.9 MB"
+    },
+    {
+      "title": "[Сборник] Classic Fond: Антология VIRGIN (Broken Sword/Cannon Fodder/Dune/Resident Evil/Screamer и др.) [ENG] (1999, DOS)",
+      "uris": [
+        "magnet:?xt=urn:btih:0037A4B95E4EBA39077E146C77D45804A4AC44C6"
+      ],
+      "uploadDate": "2009-05-07T17:16:00Z",
+      "fileSize": "645.5 MB"
+    },
+    {
+      "title": "[Сборник] 1000 Лучших игр на русском языке [RUS] [Фаргус]",
+      "uris": [
+        "magnet:?xt=urn:btih:1023D6013D8EEA7190ED003F2AF6CF6FEB511025"
+      ],
+      "uploadDate": "2010-06-20T12:20:00Z",
+      "fileSize": "664.6 MB"
+    },
+    {
+      "title": "[DOS] [Сборник] DOS Collection v0.8 (3597 игр)",
+      "uris": [
+        "magnet:?xt=urn:btih:C61224FDD71BACA3FEFE26BBC24FCB5ECE3A2CF5"
+      ],
+      "uploadDate": "2009-10-15T14:07:00Z",
+      "fileSize": "17.3 GB"
+    },
+    {
+      "title": "[Сборник] Crazy Collection 1-17 (Best Multimedia Club, 1994-1998)",
+      "uris": [
+        "magnet:?xt=urn:btih:2DD16D7CF52A3A172FB01F722153ABADEA56851C"
+      ],
+      "uploadDate": "2010-09-28T19:12:00Z",
+      "fileSize": "13.1 GB"
+    },
+    {
+      "title": "[Сборник] 115 Старых Игр [ENG+RUS]",
+      "uris": [
+        "magnet:?xt=urn:btih:621650D3C59FD9FB2E30007DC57835E99CE3B62E"
+      ],
+      "uploadDate": "2009-11-23T13:09:00Z",
+      "fileSize": "564.8 MB"
+    },
+    {
+      "title": "[Сборник] Star Wars 7v1 (Star Wars: Pit Droids / Star Wars: Episode I - The Gungan Frontier / Star Wars: Episode I - Battle for Naboo / The Phantom Menace / Racer / Star Wars: Shadows of the Empire / Star Wars: Yoda Stories) [P] [RUS / ENG] (2004) [Медиа",
+      "uris": [
+        "magnet:?xt=urn:btih:E83C9111E5C5A95CBDB17CEF193710BED8EF9C94"
+      ],
+      "uploadDate": "2009-12-10T01:30:00Z",
+      "fileSize": "658.3 MB"
+    },
+    {
+      "title": "[Сборник] 2000 лучших игр [Русский проект]",
+      "uris": [
+        "magnet:?xt=urn:btih:213D6A378B50687602D179A4BDC31792FC9F0CF5"
+      ],
+      "uploadDate": "2010-01-17T22:59:00Z",
+      "fileSize": "635.3 MB"
+    },
+    {
+      "title": "[Сборник] 200 лучших игр всех жанров: 1-17, Избранное + 700 игр: вся классика игрового жанра",
+      "uris": [
+        "magnet:?xt=urn:btih:E3995AFEC9950B15001DEB51BA3291F6FAAF43C2"
+      ],
+      "uploadDate": "2010-06-16T19:17:00Z",
+      "fileSize": "13.5 GB"
+    },
+    {
+      "title": "[Сборник] Blood and Magic + Cyberia + Little Big Adventure + Warcraft II: Tides of Darkness [RUS]",
+      "uris": [
+        "magnet:?xt=urn:btih:AE4D6B6B83FD584E50FBA09F5DE939DC75E0EF3C"
+      ],
+      "uploadDate": "2010-01-28T13:58:00Z",
+      "fileSize": "650.4 MB"
+    },
+    {
+      "title": "[Сборник] 180 русских игр",
+      "uris": [
+        "magnet:?xt=urn:btih:7FAF97770F813719FF92AE0DEB9C25B1A0BC758E"
+      ],
+      "uploadDate": "2010-01-29T14:17:00Z",
+      "fileSize": "690.6 MB"
+    },
+    {
+      "title": "[Сборник] Игрушки для старушки",
+      "uris": [
+        "magnet:?xt=urn:btih:A34DCE72CDD0F84450A92DCEF6E2D17B88BE09B0"
+      ],
+      "uploadDate": "2010-02-23T19:21:00Z",
+      "fileSize": "770.0 MB"
+    },
+    {
+      "title": "[Сборник] 180 игр на русском языке [P] [RUS + ENG] () [XXI век]",
+      "uris": [
+        "magnet:?xt=urn:btih:01A341C2E3615F01E37490C81C8E6598B76A5DE7"
+      ],
+      "uploadDate": "2010-11-27T20:07:00Z",
+      "fileSize": "695.6 MB"
+    },
+    {
+      "title": "[Сборник] 9 Гангстеров и одна блондинка (Gangsters / Respect Inc. / Street Wars / Three Dirty Dwarves) [RUS] [Фаргус]",
+      "uris": [
+        "magnet:?xt=urn:btih:29C949885F25C5E2C88F1BBD9F78F834B1FE5423"
+      ],
+      "uploadDate": "2011-03-14T19:56:00Z",
+      "fileSize": "624.7 MB"
+    },
+    {
+      "title": "[Сборник] MICROPROSE Представляет [ENG + RUS]",
+      "uris": [
+        "magnet:?xt=urn:btih:B46DCF455C03E6450FC01DE39E7BDA1CAA1B5CEE"
+      ],
+      "uploadDate": "2011-04-16T09:46:00Z",
+      "fileSize": "630.7 MB"
+    },
+    {
+      "title": "[Сборник] игр с сайта GamesFree [P] [ENG] (2011, Flash)",
+      "uris": [
+        "magnet:?xt=urn:btih:E76698E012E4ADA8B5C15F54934F5B7E1947C389"
+      ],
+      "uploadDate": "2011-05-22T13:28:00Z",
+      "fileSize": "278.2 MB"
+    },
+    {
+      "title": "[Сборник] 250 лучших игр [ENG + RUS] [Фаргус]",
+      "uris": [
+        "magnet:?xt=urn:btih:81E198C2DAD7A7134CF7C5FAB98EDA45FA2CC2DB"
+      ],
+      "uploadDate": "2011-08-23T21:36:00Z",
+      "fileSize": "653.8 MB"
+    },
+    {
+      "title": "[Сборник] 150 старых игр [P] [ENG + RUS]",
+      "uris": [
+        "magnet:?xt=urn:btih:0171D10EA2818E9B2D57461D27D186039577128E"
+      ],
+      "uploadDate": "2011-11-23T12:56:00Z",
+      "fileSize": "684.5 MB"
+    },
+    {
+      "title": "[Сборник] Антология игр Старого Света [ENG] [Classic Fond]",
+      "uris": [
+        "magnet:?xt=urn:btih:3D0761673D1AC90AC292C48BD9D09A43A7FD5547"
+      ],
+      "uploadDate": "2011-12-21T22:29:00Z",
+      "fileSize": "644.5 MB"
+    },
+    {
+      "title": "[Сборник] EnCore (Heimdall / Curse of Enchantia / Thunderhawk AH-73M) [ENG] (1993)",
+      "uris": [
+        "magnet:?xt=urn:btih:7AECC8864192F613F2729396C964FB6160AF0DF6"
+      ],
+      "uploadDate": "2011-12-20T17:40:00Z",
+      "fileSize": "14.9 MB"
+    },
+    {
+      "title": "[Сборник] 1000 игр, только хиты",
+      "uris": [
+        "magnet:?xt=urn:btih:49C441B5A2358BC2196C109BA0DF2390E2444A62"
+      ],
+      "uploadDate": "2012-06-18T17:48:00Z",
+      "fileSize": "650.4 MB"
+    },
+    {
+      "title": "[Сборник] 250 игр всех жанров на русском языке",
+      "uris": [
+        "magnet:?xt=urn:btih:D3C20253D96BA08AACF0CC2410949FF3563517D7"
+      ],
+      "uploadDate": "2012-10-19T23:05:00Z",
+      "fileSize": "528.0 MB"
+    },
+    {
+      "title": "[Сборник] 500 игр [Русский проект]",
+      "uris": [
+        "magnet:?xt=urn:btih:966B9B032D54A0E8ACE02833816378BBF4B05E49"
+      ],
+      "uploadDate": "2012-12-29T17:59:00Z",
+      "fileSize": "595.6 MB"
+    },
+    {
+      "title": "[Сборник] GE - Мировое Игронаследие. Энциклопедия компьютерных игр. Том 1 1986-1996 [The-Risen]",
+      "uris": [
+        "magnet:?xt=urn:btih:1A9E8EFF81A169ABF98783297F361E1360BE3E0D"
+      ],
+      "uploadDate": "2013-04-29T23:22:00Z",
+      "fileSize": "22.5 GB"
+    },
+    {
+      "title": "[Сборник] Коллекция игр Sierra On-Line (1980-1996)",
+      "uris": [
+        "magnet:?xt=urn:btih:A70485980F02B0A50A6207DBCF1B2232752D6DCC"
+      ],
+      "uploadDate": "2014-05-02T19:46:00Z",
+      "fileSize": "691.6 MB"
+    },
+    {
+      "title": "[Сборник] The LucasArts Archives [LucasArts]",
+      "uris": [
+        "magnet:?xt=urn:btih:55596DD411457ADCF29A55F12A7D8439453B4A3D"
+      ],
+      "uploadDate": "2015-09-11T20:27:00Z",
+      "fileSize": "4.2 GB"
+    },
+    {
+      "title": "[Сборник] 280 Игр на Русском Языке",
+      "uris": [
+        "magnet:?xt=urn:btih:00F0EC8B7F401697F7AA15498268EADF4BC62CF1"
+      ],
+      "uploadDate": "2015-01-14T23:35:00Z",
+      "fileSize": "572.3 MB"
+    },
+    {
+      "title": "[Сборник] Проект по Сбору Образов Дискет ДОС Игр / ПСОДДИ / PSODDI [P] [ENG] (1981—1998, DOS) [N/A]",
+      "uris": [
+        "magnet:?xt=urn:btih:0D23F5F3F5D10BC097AEC2DEC93CFA8CCBF2ECE2"
+      ],
+      "uploadDate": "2019-12-30T00:48:00Z",
+      "fileSize": "2.9 GB"
+    },
+    {
+      "title": "[Сборник] Полная коллекция игр на движке OpenBoR (Beats of Rage , Double Dragon, Golden Axe, Streets of Rage, Final Rage, Contra, Battletoads, Mortal Kombat) [P] [ENG / ENG] (2004—2018)",
+      "uris": [
+        "magnet:?xt=urn:btih:DCC8B501603D5FCD5072F56C44829EB69F98FCFF"
+      ],
+      "uploadDate": "2018-10-25T23:50:00Z",
+      "fileSize": "56.8 GB"
+    },
+    {
+      "title": "[Сборник] GE - Мировое Игронаследие. Энциклопедия компьютерных игр. Том 2 - 1997 год [The-Risen]",
+      "uris": [
+        "magnet:?xt=urn:btih:6616D38416CDF2B049A670E95116EC5CB8D167FF"
+      ],
+      "uploadDate": "2015-10-22T22:42:00Z",
+      "fileSize": "22.7 GB"
+    },
+    {
+      "title": "[Сборник] Коллекция сборников от TRIADA (245 CD) [P] [RUS / ENG] (2000—2005) [Triada]",
+      "uris": [
+        "magnet:?xt=urn:btih:CC312B85FD61FD52865BF59507AD98E5AB6D1904"
+      ],
+      "uploadDate": "2023-12-02T20:04:00Z",
+      "fileSize": "169.6 GB"
+    },
+    {
+      "title": "[Сборник] Old Games Collection [TechnoWizard]",
+      "uris": [
+        "magnet:?xt=urn:btih:4A0BACCBD85559528EAFCF4E4A1475D9E92E4F84"
+      ],
+      "uploadDate": "2016-04-07T08:02:00Z",
+      "fileSize": "8.0 GB"
+    },
+    {
+      "title": "[Сборник] Коллекция сборников от TRIADA (60 DVD) (Half-Life/Freelancer/Age of Empires/MechWarrior 4/Medal of Honor/Diablo/Warcraft/Command & Conquer/Need for Speed/No One Lives Forever/Unreal Tournament и др.) [P] [RUS / ENG] (2000—2005) [Triada]",
+      "uris": [
+        "magnet:?xt=urn:btih:F4B660A50F79E13214914394599779D1AEE50385"
+      ],
+      "uploadDate": "2023-09-18T14:00:00Z",
+      "fileSize": "248.8 GB"
+    },
+    {
+      "title": "[Сборник] GE - Мировое Игронаследие. Энциклопедия компьютерных игр. Том 3 - 1998 год [The-Risen]",
+      "uris": [
+        "magnet:?xt=urn:btih:63E6A5D3A341FA0F958AEF46AF303D589DA5D2B7"
+      ],
+      "uploadDate": "2016-10-08T18:53:00Z",
+      "fileSize": "20.6 GB"
+    },
+    {
+      "title": "[УДАЛЕНО] [Сборник] Win3xO: Windows 3.x v1.0 + Fix [Eng]",
+      "uris": [
+        "magnet:?xt=urn:btih:E6222718AA6CA4177354C9014AEC9761F15E328E"
+      ],
+      "uploadDate": "2017-01-13T00:40:00Z",
+      "fileSize": "323.3 GB"
+    },
+    {
+      "title": "[Сборник] eXoDOS 2.0 + Win3xO 1.0 (Fix) [ENG]",
+      "uris": [
+        "magnet:?xt=urn:btih:7ABEC227283DB6EF59571018335DAA14A6EEA970"
+      ],
+      "uploadDate": "2017-01-13T00:44:00Z",
+      "fileSize": "6.6 GB"
+    },
+    {
+      "title": "[Сборник] Oculus Rift DK2 [P] [ENG / ENG] (2014, VR Only)",
+      "uris": [
+        "magnet:?xt=urn:btih:53C6998325427FAD6AC032366A06E30A4F9BA3EC"
+      ],
+      "uploadDate": "2017-01-22T14:59:00Z",
+      "fileSize": "43.1 GB"
+    },
+    {
+      "title": "[Сборник] Сборник лучших старых игр (333+ игры, #-L) [L] [ENG] (1989—2005) [GOG]",
+      "uris": [
+        "magnet:?xt=urn:btih:0DC40FA95B5C831142E8DBF1A6BE317AF8CFD179"
+      ],
+      "uploadDate": "2017-03-03T18:56:00Z",
+      "fileSize": "126.7 GB"
+    },
+    {
+      "title": "[Сборник] Сборник лучших старых игр. M—Z: 333+ игры [L] [ENG] (1989—2005) [GOG]",
+      "uris": [
+        "magnet:?xt=urn:btih:5D666EBA8B9EEB6F81E5F0798C515DF4F3949499"
+      ],
+      "uploadDate": "2017-03-09T10:24:00Z",
+      "fileSize": "118.3 GB"
+    },
+    {
+      "title": "[Сборник] Interplay: 15th Anniversary (Fallout/Redneck Rampage/Descent/Lost Vikings 2/Stonekeep/Dragon Wars/Shattered Steel/Beat the House/M.A.X./Castles 2: Siege & Conquest и др.) [ENG]",
+      "uris": [
+        "magnet:?xt=urn:btih:4FF001177C4C23850287EB4ED0A2B9B3E34853D0"
+      ],
+      "uploadDate": "2017-07-19T22:43:00Z",
+      "fileSize": "2.8 GB"
+    },
+    {
+      "title": "[Антология] ФАРГУС [P] [RUS + ENG] (1996—2005)",
+      "uris": [
+        "magnet:?xt=urn:btih:90DBEDBE5B3701B308E13E6109CFED5F83F06A85"
+      ],
+      "uploadDate": "2017-07-25T09:13:00Z",
+      "fileSize": "443.2 GB"
+    },
+    {
+      "title": "[Антология] MOTELSOFT [L] [DEU / DEU] (1993—2014)",
+      "uris": [
+        "magnet:?xt=urn:btih:E15A6C075CDF0F5F226AFA42094489BC0E40E5F6"
+      ],
+      "uploadDate": "2017-09-15T08:05:00Z",
+      "fileSize": "4.4 GB"
+    },
+    {
+      "title": "[Сборник] Oculus Rift CV1 / Vive [P] [ENG / ENG] (2017, VR Only, VR Supported)",
+      "uris": [
+        "magnet:?xt=urn:btih:AB03B4FB112D5240E72FB475DA9AE800C7F3F909"
+      ],
+      "uploadDate": "2017-11-22T20:19:00Z",
+      "fileSize": "156.5 GB"
+    },
+    {
+      "title": "[Сборник] Oculus Rift CV1 / Vive (Часть 2) [P] [ENG / ENG] (2017, VR Only, VR Supported)",
+      "uris": [
+        "magnet:?xt=urn:btih:204718E0B753902672C91EB0B423391E7C730BE7"
+      ],
+      "uploadDate": "2017-12-26T07:52:00Z",
+      "fileSize": "417.8 GB"
+    },
+    {
+      "title": "[Сборник] Медиа-Сервис 2000 / Media 2000 (Bad Boys II, Gore, Massive Assault, Mobile Forces, Monster Hunter, Tom Clancy's Ghost Recon, Rainbow Six, Splinter Cell, Warlords, Дракоша, Таинственный отель) [L] [RUS / RUS + ENG] (2001—2007)",
+      "uris": [
+        "magnet:?xt=urn:btih:C9FF104B47FB47AF669DD43193ADE2DCCDAC30C3"
+      ],
+      "uploadDate": "2022-06-04T16:22:00Z",
+      "fileSize": "38.9 GB"
+    },
+    {
+      "title": "[Сборник] Бука 20 лет - Юбилейная коллекция: Петька 4, 5, 6, 007 (7), VIII (8), 9 + Симбионт + Ядерный титбит 2 + Sledgehammer + EX Machina + Меридиан 113 + Метро-2 + Смерть вождя + Мор. Утопия + Стальные монстры [L] [RUS / RUS] (2014) [Бука]",
+      "uris": [
+        "magnet:?xt=urn:btih:FF194E330EA4BB5DFFB2086A3E69C2EC7ECADFD8"
+      ],
+      "uploadDate": "2018-04-01T01:28:00Z",
+      "fileSize": "16.9 GB"
+    },
+    {
+      "title": "[Сборник] Wangan Midnight Maximum Tune 5 & Initial D Arcade Stage 7 AAX (TeknoParrot) [P] [ENG + 1 / JPN] (2012—2014) (1.42)",
+      "uris": [
+        "magnet:?xt=urn:btih:1FC46C16C6A62C296433E468E6BC8F1DED58528D"
+      ],
+      "uploadDate": "2018-04-18T11:20:00Z",
+      "fileSize": "15.8 GB"
+    },
+    {
+      "title": "[Сборник] Игры от компании Полёт Навигатора [L] [RUS] (2003—2008)",
+      "uris": [
+        "magnet:?xt=urn:btih:5C7A4CE1480AA82DC3986DCDFE24835998ED74D2"
+      ],
+      "uploadDate": "2023-12-26T18:06:00Z",
+      "fileSize": "20.4 GB"
+    },
+    {
+      "title": "[Сборник] Сборки переводов Бюро Old-Games.Ru [Old-Games] релиз 6.0 [P] [RUS] (1983—2007)",
+      "uris": [
+        "magnet:?xt=urn:btih:C3644E4E79999FC428B51ECAB5C00B9A04A5EF3A"
+      ],
+      "uploadDate": "2022-03-09T22:24:00Z",
+      "fileSize": "12.5 GB"
+    },
+    {
+      "title": "[Сборник] Сборник игр для всей семьи [L] [RUS / RUS] (2001) [Медиа-Сервис 2000]",
+      "uris": [
+        "magnet:?xt=urn:btih:5D3D458CA596D8A56E310ED78FAB86CD86554DDD"
+      ],
+      "uploadDate": "2018-10-17T15:13:00Z",
+      "fileSize": "647.7 MB"
+    },
+    {
+      "title": "[Сборник] GE - Мировое Игронаследие. Энциклопедия компьютерных игр. Том 4 - 1998-1999 годы [P] [RUS] (2018)",
+      "uris": [
+        "magnet:?xt=urn:btih:AB40DD13D4E7C24418FB5E410E319FA3DD91303E"
+      ],
+      "uploadDate": "2018-11-09T17:06:00Z",
+      "fileSize": "18.6 GB"
+    },
+    {
+      "title": "[Сборник] Золотая коллекция игр: Head Games [P] [ENG / ENG] (1998—2000, 2004) [7Wolf]",
+      "uris": [
+        "magnet:?xt=urn:btih:796625DF229EEA16665983DFEC0BC9D1F26D03F8"
+      ],
+      "uploadDate": "2018-11-26T20:32:00Z",
+      "fileSize": "696.5 MB"
+    },
+    {
+      "title": "[Сборник] Золотая коллекция игр: Гольф [P] [ENG / ENG] (1995—2003, 2004) [7Wolf]",
+      "uris": [
+        "magnet:?xt=urn:btih:6CAA5C41BB72B21DB178A9FB3845F5112449289D"
+      ],
+      "uploadDate": "2018-11-28T16:04:00Z",
+      "fileSize": "698.3 MB"
+    },
+    {
+      "title": "[Сборник] 1150 игр на русском языке для Dos и Windows [P] [RUS + ENG] (2001) [XXI век]",
+      "uris": [
+        "magnet:?xt=urn:btih:736D6752697B8CA812221B98FE0D01FFBF21612F"
+      ],
+      "uploadDate": "2019-03-11T13:30:00Z",
+      "fileSize": "700.1 MB"
+    },
+    {
+      "title": "[Сборник] Мир Star Wars 3в1 (Galactic Battlegrounds / Starfighter / Episode I - Battle for Naboo) [P] [RUS / RUS + ENG] (2000—2001, 2002) [Русский проект]",
+      "uris": [
+        "magnet:?xt=urn:btih:DBFA725FD3744E9645BD600AF4CB6B03F7A6FBFD"
+      ],
+      "uploadDate": "2019-04-19T11:16:00Z",
+      "fileSize": "697.6 MB"
+    },
+    {
+      "title": "[Сборник] Старые добрые игры [P] [ENG / ENG] (1989—1999) (1.1) [Classic Fond]",
+      "uris": [
+        "magnet:?xt=urn:btih:ED51E23AE0D4A329DAB40910E13F39CB115D45B8"
+      ],
+      "uploadDate": "2019-05-03T01:26:00Z",
+      "fileSize": "677.9 MB"
+    },
+    {
+      "title": "[Антология] Nikita WinGames (Перестройка / Toppler for Windows + U-95 / U95 + Honey Lines + Floppy Killer + Побег / Escape + Biprolex) [L] [RUS] (1995, MS-DOS) [Образ]",
+      "uris": [
+        "magnet:?xt=urn:btih:4E02B4C903E5F079F69572914058C2F5844AC88A"
+      ],
+      "uploadDate": "2019-05-08T00:02:00Z",
+      "fileSize": "18.3 MB"
+    },
+    {
+      "title": "[Сборник] 100 лучших игр. Выпуск 4 [L] [ENG] (2005) [Новый Диск]",
+      "uris": [
+        "magnet:?xt=urn:btih:BCAA71A1C7F565D27FC545B0A25FF3EBEA81E76F"
+      ],
+      "uploadDate": "2019-06-07T20:43:00Z",
+      "fileSize": "666.5 MB"
+    },
+    {
+      "title": "[Сборник] eXoDOS Collection v4.0 [ENG] (1978—2019) [DOS]",
+      "uris": [
+        "magnet:?xt=urn:btih:6B901594EF61DA8E2D498F88B05D5ACEDD16E881"
+      ],
+      "uploadDate": "2019-09-04T13:29:00Z",
+      "fileSize": "491.5 GB"
+    },
+    {
+      "title": "[Демоверсия] 1С:ИГРЫ Демонстрационный диск. Выпуск №155 (Аллоды: Печать тайны + Дальнобойщики. Путь к победе + Чикаго 1932: Дон Капоне + Братья Пилоты. По следам полосатого слона + Бородино. Наука побеждать) [L] [RUS] (1998) [1С]",
+      "uris": [
+        "magnet:?xt=urn:btih:23CA46DE3D2433598D42CBB78FEF221785A1F497"
+      ],
+      "uploadDate": "2019-09-28T19:26:00Z",
+      "fileSize": "442.0 MB"
+    },
+    {
+      "title": "[Сборник] 1000 лучших игр на русском языке (2003, DOS) [Диво]",
+      "uris": [
+        "magnet:?xt=urn:btih:DD81BD79ACD977DF5B9A7D5F5C7AD9E8DBF0BDD1"
+      ],
+      "uploadDate": "2019-12-16T07:36:00Z",
+      "fileSize": "4.2 GB"
+    },
+    {
+      "title": "[Сборник] 300 русских игр для Windows 95 / 98 / 2000 [P] [RUS + ENG / RUS + ENG] (2000) [XXI век]",
+      "uris": [
+        "magnet:?xt=urn:btih:2126758F248A65EA7A1D50328020EA2688EF2FC8"
+      ],
+      "uploadDate": "2020-03-19T00:59:00Z",
+      "fileSize": "649.5 MB"
+    },
+    {
+      "title": "[Сборник] Игровая Матрица (Путь Героя + Подземелья Черного замка + Лабиринт затаившейся смерти + Puzzle + 1000 + Камешки + Kinetic worm dimension + London Bus + Worm Racing + X-Racer 2000 + Konik + Шарики + Золотая Лихорадка + Пятнашки + Морской Бой + Ре",
+      "uris": [
+        "magnet:?xt=urn:btih:4FA5F04DF52EB79DE73FB7F82B7AF435CCB5175D"
+      ],
+      "uploadDate": "2020-03-28T14:02:00Z",
+      "fileSize": "602.0 MB"
+    },
+    {
+      "title": "[Сборник] 900 Русских Игр [P] [RUS + ENG] (2001) [XXI век] [12+]",
+      "uris": [
+        "magnet:?xt=urn:btih:2A238AFE310523B23C68B102210D714D1F6A4404"
+      ],
+      "uploadDate": "2020-07-24T00:20:00Z",
+      "fileSize": "703.7 MB"
+    },
+    {
+      "title": "[Сборник] Хиты для маленьких / Лучшие игры для маленьких [P] [RUS + ENG / RUS + ENG] (1997, DOS) [BestCD]",
+      "uris": [
+        "magnet:?xt=urn:btih:ADE65A8D75FC55C7EA587EA28700D0E2B6B98C01"
+      ],
+      "uploadDate": "2020-08-12T18:34:00Z",
+      "fileSize": "632.2 MB"
+    },
+    {
+      "title": "[Сборник] eXoDOS Collection v5.0 Full [P] [ENG] (1978—2020) [DOS]",
+      "uris": [
+        "magnet:?xt=urn:btih:125B77979BA4B183EB702F4FF00DF9FF22C452D7"
+      ],
+      "uploadDate": "2020-11-10T17:54:00Z",
+      "fileSize": "562.4 GB"
+    },
+    {
+      "title": "[Сборник] eXoDOS Collection v5.0 Lite [P] [ENG] (1978—2020) [DOS]",
+      "uris": [
+        "magnet:?xt=urn:btih:FE6782DA6D0AFF057E18D2F8843253F76A963037"
+      ],
+      "uploadDate": "2020-11-10T18:00:00Z",
+      "fileSize": "52.0 GB"
+    },
+    {
+      "title": "Сборники бесплатных игр и программ от Legando [L] [RUS + ENG / RUS + ENG] (2006—2009) [Новый Диск]",
+      "uris": [
+        "magnet:?xt=urn:btih:E4674CDFD7B791CB8AD61B3F49A9B7FFF944F265"
+      ],
+      "uploadDate": "2022-09-17T14:14:00Z",
+      "fileSize": "33.2 GB"
+    },
+    {
+      "title": "[Антология] Тубер 3в1 (Adventures of Tuber: The Map of Treasures / Аферы Тубера: Карта Сокровищ, Tuber vs Solanars: Strategy / Тубер против Соланаров: Стратегия, TAMP - Tuber Advanced Media Player / Универсальный медиаплеер Тубера) [L] [RUS] (2007) (1.05",
+      "uris": [
+        "magnet:?xt=urn:btih:4256C28CB60BC59A47687187FBA06154FA3C7E41"
+      ],
+      "uploadDate": "2021-02-26T21:01:00Z",
+      "fileSize": "180.6 MB"
+    },
+    {
+      "title": "[Сборник] Авиасимуляторы 2000 (Curse You! Red Baron, F-22 Lightning 3, Jane's Combat Simulations: WWII Fighters, MiG-29 Fulcrum, Mig Alley) [P] [RUS / RUS + ENG] (1998—1999) [Наша Марка]",
+      "uris": [
+        "magnet:?xt=urn:btih:21978AD0028FE98CDDA8E479F4E247116A20F230"
+      ],
+      "uploadDate": "2021-05-01T10:53:00Z",
+      "fileSize": "615.1 MB"
+    },
+    {
+      "title": "[Сборник] Пираты Карибского моря (Sid Meier's Pirates, Battleships: Pirates of the Caribbean Edition, Pirates of the Caribbean, Pirates of the Caribbean: Legend of Jack Sparrow, Pirates of the Caribbean: At World's End) [P] [RUS + ENG / ENG] (2007) [Tria",
+      "uris": [
+        "magnet:?xt=urn:btih:DB761D9B8D41BFDC2BD86A3A8E9F39C1E1DB4237"
+      ],
+      "uploadDate": "2021-06-17T11:24:00Z",
+      "fileSize": "3.6 GB"
+    },
+    {
+      "title": "[Сборник] Мир Microprose 21 в 1 (Civilization I, II / Colonization / Master Of Magic / Orion / NightLong: Union City Conspiracy / Pirates! / Railroad Tycoon / Worms Armageddon / X-COM(UFO) I(1), II, III(3), IV(4)) [P] [RUS + ENG + 2 / RUS + ENG] (1999) [",
+      "uris": [
+        "magnet:?xt=urn:btih:FA9ECCC7A2F48D9F9468E4D8E93B979A9C79781D"
+      ],
+      "uploadDate": "2021-06-20T22:57:00Z",
+      "fileSize": "630.6 MB"
+    },
+    {
+      "title": "[Сборник] Amazing Time Management Games: Delicious (2, Tea Garden, Taste of Fame, Holiday Season, Childhood Memories, True Love, Wonder Wedding, Honeymoon Cruise, New Beginning) [L] [ENG] (2006 — 2017) [Legacy Games]",
+      "uris": [
+        "magnet:?xt=urn:btih:0EBD57234571B2E6BEDBBA300222AC275785E5B3"
+      ],
+      "uploadDate": "2021-07-27T18:41:00Z",
+      "fileSize": "1.5 GB"
+    },
+    {
+      "title": "[Сборник] Золотые гонки '99 / Лучшие гонки '98 (Colin McRae Rally / Need For Speed III / Formula 1 Championship Edition / Monaco Grand Prix II / Motoracer II / Nascar Racing 1999 / Newman - Haas Racing / Test Drive 5) [P] [RUS? + ENG / RUS? + ENG] (1998)",
+      "uris": [
+        "magnet:?xt=urn:btih:149F322194BEC871B09329F31DFA1C52A9AE9E81"
+      ],
+      "uploadDate": "2021-07-29T16:58:00Z",
+      "fileSize": "652.3 MB"
+    },
+    {
+      "title": "[Сборник] 200 игр на русском языке [P] [RUS + ENG / RUS + ENG] (1999, DOS) [XXI век]",
+      "uris": [
+        "magnet:?xt=urn:btih:E2F92B8323AF8477F24CB5B7B2C9F15BD523E2F7"
+      ],
+      "uploadDate": "2021-11-28T17:42:00Z",
+      "fileSize": "646.4 MB"
+    },
+    {
+      "title": "[Сборник] Mystery Masters (Escape from Pompeii, The Treasures, Curse of Montezuma, Heroes of Hellas, Holly 2, The Stolen Venus, Magic Encyclopedia: First Story, Moon Light, Mystery Cookbook, Natalie Brooks, Sprill, & Ritchie) [L] [ENG / ENG] (2009) [Viva",
+      "uris": [
+        "magnet:?xt=urn:btih:06E063EB4E5DCF69C86AD97ECF278FDF4D1E7441"
+      ],
+      "uploadDate": "2021-12-01T16:00:00Z",
+      "fileSize": "1.4 GB"
+    },
+    {
+      "title": "[Сборник] Flash игры с сайта Not Doppler [P] [ENG] (2005-2020)",
+      "uris": [
+        "magnet:?xt=urn:btih:8B2FB946D0E55130670DCA1B33038E635944C4EC"
+      ],
+      "uploadDate": "2021-12-10T14:12:00Z",
+      "fileSize": "11.5 GB"
+    },
+    {
+      "title": "[УДАЛЕНО] [Сборник] Total DOS Collection [P] [RUS? + ENG? + * / RUS? + ENG? + *] (1981—2022) (#20)",
+      "uris": [
+        "magnet:?xt=urn:btih:2D1B9D4A420A93C52B7A1F89FB4982BF11EFF6A0"
+      ],
+      "uploadDate": "2022-08-29T12:07:00Z",
+      "fileSize": "488.1 GB"
+    },
+    {
+      "title": "[Сборник] Игроман: золотая коллекция. Выпуск 4 [P] [RUS? + ENG? / RUS? + ENG?] (2000) [N/A]",
+      "uris": [
+        "magnet:?xt=urn:btih:5D96A8AEFE0856E3553B42AE410CC6A497BB9B1C"
+      ],
+      "uploadDate": "2022-02-02T16:10:00Z",
+      "fileSize": "779.1 MB"
+    },
+    {
+      "title": "[Сборник] Super 3D Games 1-6 (серия Power Play) [P] [RUS? + ENG?] (1993—1997) [XXI век]",
+      "uris": [
+        "magnet:?xt=urn:btih:2E22FD28E91B8B14B99472047794A24C8095592D"
+      ],
+      "uploadDate": "2022-03-14T23:55:00Z",
+      "fileSize": "3.2 GB"
+    },
+    {
+      "title": "[Сборник] Чемпионат Ралли. 3 в 1(Euro Rally Champion / Еврочемпионат / Ралли Чемпионат Европы + Glacier / Экстремальное ралли + Смертельный Форсаж [L] [RUS / ENG] (2008) [Акелла]",
+      "uris": [
+        "magnet:?xt=urn:btih:02640CFC60D926611C67FBFD268219FA9D833583"
+      ],
+      "uploadDate": "2022-03-11T19:02:00Z",
+      "fileSize": "673.7 MB"
+    },
+    {
+      "title": "[Сборник] Игры из магазина HTC VivePort по подписке Infinity [P] [ENG / ENG] (2022, VR Only) [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:2DA64722052298571A9039DA189B85CB4469A5B5"
+      ],
+      "uploadDate": "2022-06-13T02:30:00Z",
+      "fileSize": "1.5 TB"
+    },
+    {
+      "title": "[Сборник] Русская игротека 2003 / 400 игр на русском для Windows [P] [RUS + ENG] (2003) [XXI век]",
+      "uris": [
+        "magnet:?xt=urn:btih:4DF9B649C6F1271CA66595F72D96EE34FE424F52"
+      ],
+      "uploadDate": "2022-07-26T15:54:00Z",
+      "fileSize": "802.6 MB"
+    },
+    {
+      "title": "[Сборник] Лучшая коллекция на русском [P] [RUS] (1998) [BestCD]",
+      "uris": [
+        "magnet:?xt=urn:btih:D025EEEBD2AD0D0A6177E63408DF724FC3D6B853"
+      ],
+      "uploadDate": "2022-07-27T16:29:00Z",
+      "fileSize": "711.4 MB"
+    },
+    {
+      "title": "[Сборник] Лучшие игры для IBM PC. Диск 9 [P] [ENG] (1996) [Акелла]",
+      "uris": [
+        "magnet:?xt=urn:btih:F0C5F285C673A82FBE87D5BDE192BA407909717A"
+      ],
+      "uploadDate": "2022-07-28T13:18:00Z",
+      "fileSize": "502.0 MB"
+    },
+    {
+      "title": "[Сборник] Ежемесячный CD сборник новых игр. Выпуск 13 [P] [ENG] (1996) [Русский Проект]",
+      "uris": [
+        "magnet:?xt=urn:btih:84DFCC4ABDD0129D1004C7292673BFAC2A482CD9"
+      ],
+      "uploadDate": "2022-07-28T15:24:00Z",
+      "fileSize": "528.9 MB"
+    },
+    {
+      "title": "[Антология] Diablo II: Resurrected, Diablo III: Reaper of Souls, StarCraft: Remastered, Warcraft 3: Reforged, Call of Duty: Modern Warfare 2 - Campaign Remastered, Call of Duty: Black Ops - Cold War [L] [RUS + ENG / RUS + ENG] (2017-2021) [Battle.net-Rip",
+      "uris": [
+        "magnet:?xt=urn:btih:DFDE8027CA43A9F87D3017EC1C20233E180D2B2F"
+      ],
+      "uploadDate": "2024-02-03T05:36:00Z",
+      "fileSize": "385.8 GB"
+    },
+    {
+      "title": "[Сборник] Windows GamePack [P] [RUS + ENG + *] (2022, Freeware) (22.11) [P2P]",
+      "uris": [
+        "magnet:?xt=urn:btih:53ABD8B062C73BD973AEC0DC0BC80F6C55166150"
+      ],
+      "uploadDate": "2022-11-23T19:40:00Z",
+      "fileSize": "29.8 GB"
+    },
+    {
+      "title": "[Сборник] Best Of Mega Games for DOS [L] [ENG / ENG] (1996) (1.0) [International Software Values]",
+      "uris": [
+        "magnet:?xt=urn:btih:42D241766A9F84FDCA64A149B8EDC8C0BDDAA0D1"
+      ],
+      "uploadDate": "2023-06-03T20:15:00Z",
+      "fileSize": "174.3 MB"
+    },
+    {
+      "title": "[Сборник] Asus Bonus Gamepack (Savage: The Battle for Newerth, Billy Blade: Temple of Time, Mashed: Drive to Survive) [L] [ENG / ENG] (2003-2005) [ASUS]",
+      "uris": [
+        "magnet:?xt=urn:btih:C0841315341CCEB9579472DE2D12C7AA5867FFDA"
+      ],
+      "uploadDate": "2023-06-05T21:21:00Z",
+      "fileSize": "1.0 GB"
+    },
+    {
+      "title": "[Сборник] Asus Bonus Gamepack (Chaos league, Second sight, Powerdrome) [L] [ENG / ENG] (2004-2005) [ASUS]",
+      "uris": [
+        "magnet:?xt=urn:btih:EE22C0314B1559E0475EB5622331BA21A86FF0A8"
+      ],
+      "uploadDate": "2023-06-09T17:57:00Z",
+      "fileSize": "1.5 GB"
+    },
+    {
+      "title": "[Антология] Все игры от Alawar (450 игр, A-E) [L] [RUS] (2003-2023) [DL]",
+      "uris": [
+        "magnet:?xt=urn:btih:37FF10A878402564DE57FEE26DE0C0FF958B9F7A"
+      ],
+      "uploadDate": "2023-06-27T06:45:00Z",
+      "fileSize": "211.1 GB"
+    },
+    {
+      "title": "[Антология] Все игры от Alawar (419 игр, F-L) [L] [RUS] (2003-2023) [DL]",
+      "uris": [
+        "magnet:?xt=urn:btih:4DC8A089785F8628DB576E8BB1886B9411B3FE58"
+      ],
+      "uploadDate": "2023-06-27T06:45:00Z",
+      "fileSize": "213.5 GB"
+    },
+    {
+      "title": "[Антология] Все игры от Alawar (389 игр, M-R) [L] [RUS] (2003-2023) [DL]",
+      "uris": [
+        "magnet:?xt=urn:btih:729E0E64C8293454C48480D054E52924F6CB270F"
+      ],
+      "uploadDate": "2023-06-29T18:56:00Z",
+      "fileSize": "203.5 GB"
+    },
+    {
+      "title": "[Антология] Все игры от Alawar (329 игр, S-Z) [L] [RUS] (2003-2023) [DL]",
+      "uris": [
+        "magnet:?xt=urn:btih:731673A0B4133CD44BE70B6BDB6304BD8F9BEB31"
+      ],
+      "uploadDate": "2023-07-01T20:56:00Z",
+      "fileSize": "163.9 GB"
+    },
+    {
+      "title": "[Антология] Total DOS Collection [P] [RUS? + ENG? + * / RUS? + ENG? + *] (1981—2023) (#21)",
+      "uris": [
+        "magnet:?xt=urn:btih:76A65FD2B00F54839BC9CBC3EA925212C9E41A13"
+      ],
+      "uploadDate": "2023-08-23T03:29:00Z",
+      "fileSize": "629.7 GB"
+    },
+    {
+      "title": "[Антология] ExoWin3x [P] [ENG / ENG] (1990—2001, DOS) (2.0)",
+      "uris": [
+        "magnet:?xt=urn:btih:F45453CED2EF4D06C40CC97D9DD03F6A5D09679F"
+      ],
+      "uploadDate": "2023-09-02T06:04:00Z",
+      "fileSize": "345.8 GB"
+    },
+    {
+      "title": "[Антология] Fallout Fan Games [P] [RUS + ENG] (2001-2023) [P2P]",
+      "uris": [
+        "magnet:?xt=urn:btih:240DD2D2634B0382073D6D5831B9219571A1D5DB"
+      ],
+      "uploadDate": "2023-09-10T01:05:00Z",
+      "fileSize": "1.1 GB"
+    },
+    {
+      "title": "[Антология] Scene ISO Collection (Baldur's Gate, Blood II: Chosen, Caesar III, Colin McRae Rally, Fallout 2, FIFA 99, Half-Life, Need for Speed 3: Hot Pursuit, Oddworld: Abe's Exoddus, Populous: The Beginning, Quake II, Sin, Starcraft: Brood War, Thief: ",
+      "uris": [
+        "magnet:?xt=urn:btih:270D4C99BA90E57FE499F8838A86B006FA2B4816"
+      ],
+      "uploadDate": "2023-10-03T02:02:00Z",
+      "fileSize": "15.0 GB"
+    },
+    {
+      "title": "[Антология] Scene ISO Collection (Age of Empires II, Command and Conquer: Tiberian Sun, Dungeon Keeper 2, FIFA 2000, Grand Theft Auto 2, Half-Life: Opposing Force, Pharaoh, Quake III: Arena, Resident Evil 2, System Shock 2, Tarzan, Tomb Raider: The Last ",
+      "uris": [
+        "magnet:?xt=urn:btih:04E465BF5F51A113AED18373EA8F1CF86B508E62"
+      ],
+      "uploadDate": "2023-10-05T11:42:00Z",
+      "fileSize": "88.5 GB"
+    },
+    {
+      "title": "[Антология] Scene ISO Collection (Baldur's Gate II: Shadows of Amn, Command and Conquer: Red Alert 2, Daikatana, Deus Ex, Diablo II, Hitman: Codename 47, Metal Gear Solid, Need for Speed: Porsche Unleashed, Resident Evil 3, Shogun Total War, The Sims, To",
+      "uris": [
+        "magnet:?xt=urn:btih:B2B7BB1A2E00C270F1E8BD521DCBC17BE90E4C9B"
+      ],
+      "uploadDate": "2023-10-07T01:19:00Z",
+      "fileSize": "212.2 GB"
+    },
+    {
+      "title": "[УДАЛЕНО] Unreal Tournament [P] [RUS / RUS] [City] (1999) (400) [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:23A69E944E99890B56055E606F51CDD16020BA9B"
+      ],
+      "uploadDate": "2023-10-14T00:04:00Z",
+      "fileSize": "520.5 MB"
+    },
+    {
+      "title": "[Антология] Scene ISO Collection (Arcanum: Of Steamworks & Magick Obscura, Black & White, Fallout Tactics, Gothic, Half-Life: Blue Shift, Harry Potter and the Sorcerer's Stone, Rayman M, Return to Castle Wolfenstein, Serious Sam: First Encounter, Spider-",
+      "uris": [
+        "magnet:?xt=urn:btih:20565C1E14DA92D12BA84A5BFC9B34ED28C3A8B7"
+      ],
+      "uploadDate": "2023-10-14T07:43:00Z",
+      "fileSize": "335.0 GB"
+    },
+    {
+      "title": "[Антология] Age of Empires II: The Age of Kings, Commandos: Beyond the Call of Duty, Delta Force 2, Kingpin: Life of Crime, MechWarrior 3, Need for Speed 4: High Stakes, Nocturne, Tom Clancy's Rainbow Six: Rogue Spear [P] [RUS + ENG] (1999) [Новая Студия",
+      "uris": [
+        "magnet:?xt=urn:btih:6C97DED787AC08A4D16483F3512BE11DAECA7E3E"
+      ],
+      "uploadDate": "2023-11-18T13:42:00Z",
+      "fileSize": "3.7 GB"
+    },
+    {
+      "title": "[УДАЛЕНО] Company of Heroes 3 [P] [ENG / ENG] (2023) (1.4.2.21612 + 3 DLC) [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:EEA294677F6EC2A757CC31D7E6F81A510DF23434"
+      ],
+      "uploadDate": "2023-12-19T18:35:00Z",
+      "fileSize": "27.8 GB"
+    },
+    {
+      "title": "[CD] [Антология] Scene ISO Collection (Grand Theft Auto 3, Harry Potter and the Chamber of Secrets, Heroes of Might & Magic 4, Hitman 2: Silent Assassin, No One Lives Forever 2, Silent Hill 2, Stronghold Crusader, The Elder Scrolls 3: Morrowind, Warcraft",
+      "uris": [
+        "magnet:?xt=urn:btih:C7E5A8A79A4A446ADD562DCCD397B30FF3C095F2"
+      ],
+      "uploadDate": "2024-02-10T09:44:00Z",
+      "fileSize": "557.2 GB"
+    },
+    {
+      "title": "[CD] [Антология] Scene ISO Collection (Armed and Dangerous, Call of Duty, Chaser, Command & Conquer: Generals, Deus Ex: Invisible War, Enter the Matrix, Gothic II, Grand Theft Auto: Vice City, Max Payne 2, Silent Hill 3, Tom Clancy's Splinter Cell, Warcr",
+      "uris": [
+        "magnet:?xt=urn:btih:A095C9CF428C3CDAD555206777C554D6F03AD29A"
+      ],
+      "uploadDate": "2024-02-15T03:02:00Z",
+      "fileSize": "650.5 GB"
+    },
+    {
+      "title": "[CD] [Антология] Scene ISO Collection (Crusader Kings, Doom 3, Far Cry, Half-Life 2, Harry Potter and the Prisoner of Azkaban, Hitman: Contracts, Rome: Total War, Sacred, Silent Hill 4: The Room, Sims 2, Sonic Adventure DX: Director's Cut, Vampire: The M",
+      "uris": [
+        "magnet:?xt=urn:btih:9834BC31756B4846817009144FD25BDD5B122DBA"
+      ],
+      "uploadDate": "2024-02-15T19:27:00Z",
+      "fileSize": "741.2 GB"
+    },
+    {
+      "title": "[CD] [Антология] Scene ISO Collection (Age of Empires 3, Black and White 2, BloodRayne 2, Call of Duty 2, Fable: The Lost Chapters, Grand Theft Auto: San Andreas, LEGO Star Wars, Matrix: Path of Neo, Myst V: End of Ages, Quake 4, Stronghold 2, Still Life",
+      "uris": [
+        "magnet:?xt=urn:btih:8648DD575D3436E59BC79BF684DA0AF24C894EF1"
+      ],
+      "uploadDate": "2024-02-18T01:22:00Z",
+      "fileSize": "928.4 GB"
+    },
+    {
+      "title": "[DL] [Антология] Cool Flash Games [P] [RUS + ENG / ENG] (2002—2018)",
+      "uris": [
+        "magnet:?xt=urn:btih:6D0E3A5205AF865DCCBD4F2561EB5F64EFE82755"
+      ],
+      "uploadDate": "2024-03-13T22:45:00Z",
+      "fileSize": "13.3 GB"
+    },
+    {
+      "title": "[УДАЛЕНО] [DL] Half Life [L] [ENG / ENG] (1998, FPS) (build 12833965) [Portable] [12+]",
+      "uris": [
+        "magnet:?xt=urn:btih:3A1452F9BDE991BE2DEC6FD9D48CEBB0942677F6"
+      ],
+      "uploadDate": "2024-04-26T19:44:00Z",
+      "fileSize": "661.1 MB"
+    },
+    {
+      "title": "[DL] [Антология] Коллекция игр Popcap Games [L] [ENG + 4] (2000-2012, Arcade) [PopCap]",
+      "uris": [
+        "magnet:?xt=urn:btih:E4B74E1B414F2B55F62E89283D9DA18B34602659"
+      ],
+      "uploadDate": "2024-05-15T11:41:00Z",
+      "fileSize": "7.9 GB"
+    }
+  ]
+}
