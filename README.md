@@ -72,7 +72,7 @@ Open **Hydra**, go to **Settings**, then to **Download sources**. Click **Add so
 - [Старые игры (Приключения и квесты)](https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/Categories/2225.json)
 - [Старые игры (Симуляторы)](https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/Categories/2206.json)
 
-## Português (PT-BR)
+## Português
 
 ### Utilização
 
