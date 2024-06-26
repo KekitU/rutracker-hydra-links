@@ -12,7 +12,7 @@ Open **Hydra**, go to **Settings**, then to **Download sources**. Click **Add so
 
 [Linux games with Wine, DOSBox and others](https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/Categories/2059.json)
 
-### Categories
+### Categories (Windows)
 
 - [Games for Windows](https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/Categories/5.json)
 - [Hot Novelties](https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/Categories/635.json)
@@ -40,7 +40,7 @@ Open **Hydra**, go to **Settings**, then to **Download sources**. Click **Add so
 - [Old Games (Simulators)](https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/Categories/2206.json)
 
 
-## Русский
+## Русский 
 
 ### Использование
 
@@ -53,7 +53,7 @@ Open **Hydra**, go to **Settings**, then to **Download sources**. Click **Add so
 
 [Игры для Linux с Wine, DOSBox и другими](https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/Categories/2059.json)
 
-### Категории
+### Категории (Windows)
 
 - [Игры для Windows](https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/Categories/5.json)
 - [Горячие Новинки](https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/Categories/635.json)
@@ -93,7 +93,7 @@ Abra o **Hydra**, vá para **Ajustes**, depois para **Fontes de download**. Cliq
 
 [Jogos para Linux com Wine, DOSBox e outros](https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/Categories/2059.json)
 
-### Categorias
+### Categorias (Windows)
 
 - [Jogos para Windows](https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/Categories/5.json)
 - [Novidades Quentes](https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/Categories/635.json)
