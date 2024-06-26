@@ -7,7 +7,9 @@ Click on needed category, open a **raw** file and copy URL to the file. Or just 
 Open **Hydra**, go to **Settings**, then to **Download sources**. Click **Add source** insert copied link, click **Validate**, then **Import**. Congratulations!
 
 [All Categories](https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/all_categories.json)
+
 [Games for Linux](https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/Categories/1992.json)
+
 [Linux games with Wine, DOSBox and others](https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/Categories/2059.json)
 
 ### Categories
@@ -46,7 +48,9 @@ Open **Hydra**, go to **Settings**, then to **Download sources**. Click **Add so
 Откройте **Hydra**, перейдите в раздел **Настройки**, затем в раздел **Скачать исходный код**. Нажмите **Добавить источник**, вставьте скопированную ссылку, нажмите **Проверить**, затем **Импортировать**. Готово!
 
 [Все категории](https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/all_categories.json)
+
 [Игры для Linux](https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/Categories/1992.json)
+
 [Игры для Linux с Wine, DOSBox и другими](https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/Categories/2059.json)
 
 ### Категории
@@ -84,7 +88,9 @@ Clique na categoria pretendida, abra um ficheiro **raw** e copie o URL para o fi
 Abra o **Hydra**, vá para **Ajustes**, depois para **Fontes de download**. Clique em **Adicionar fonte**, cole a ligação copiada, clique em **Validar** e depois em **Importar**. Pronto!
 
 [Todas as categorias](https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/all_categories.json)
+
 [Jogos para Linux](https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/Categories/1992.json)
+
 [Jogos para Linux com Wine, DOSBox e outros](https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/Categories/2059.json)
 
 ### Categorias
